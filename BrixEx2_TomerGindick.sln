@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29409.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BrixEx2_TomerGindick", "BrixEx2_TomerGindick\BrixEx2_TomerGindick.csproj", "{557E9480-08F9-4532-B176-08012F93BCB3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{557E9480-08F9-4532-B176-08012F93BCB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{557E9480-08F9-4532-B176-08012F93BCB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{557E9480-08F9-4532-B176-08012F93BCB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{557E9480-08F9-4532-B176-08012F93BCB3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5EA84CD7-D73B-4FE5-A86D-40F229C8FC56}
+	EndGlobalSection
+EndGlobal
